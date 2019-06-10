@@ -1,0 +1,14 @@
+••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
+1) Crie um script que informe a placa de um veículo (padrão cinza
+LLL NNNN) e crie o novo padrão MERCOSUL: LLL NLNN.
+
+2) Somente ao final, o Script deverá apresentar(imprimir) como será a
+placa no formato Mercosul de cada carro, a quantidade de placas
+convertidas.
+
+3) O script só termina quando foi digitado fim para a placa
+
+4) O script deve ter um cabeçalho com o nome do aluno por
+completo, data e hora no fuso horário Brasil São Paulo
+••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
+
